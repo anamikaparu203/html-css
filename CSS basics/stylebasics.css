@@ -1,0 +1,55 @@
+body{
+    background-image: url("/images/sunset2.jpg");
+    background-size: cover;
+}
+#hello{
+    width:500;
+    height:auto
+}
+#hai{
+    background-color: blueviolet;
+    width:500;
+    height: auto;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+}
+
+#hai1{
+    background-color: brown;
+   width: 500;
+   height: auto;
+   font-size: medium;
+}
+#hai2{
+    background-color: aquamarine;
+    width: 500;
+    height: auto;
+    font-size: small;
+}
+   .grp1{
+    font-family: 'Times New Roman', Times, serif;
+    border: 2px solid blueviolet;
+   }
+   .grp1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: dotted red;
+   }
+   .list{
+    background-color: beige;
+    list-style:circle;
+    
+   }
+   table{
+    border: 4px;
+    border-style: solid;
+    border-color: black;
+    border-collapse: collapse;
+    margin: 30% 40%;
+   }
+   tr{
+    border-bottom: 2px solid black;
+   }
+   td{
+    border-right: 3px solid pink;
+    padding: 5px 20px;
+   }
